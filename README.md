@@ -8,7 +8,7 @@
 
 ## Introduction
 <p>
-  I created one website rewrite simpale Introducton in one small paragraph"Name= Stock Price Prediction with Machine Learning sing linear regression & Django App. In which 1The Home page of the application that displays real time data of stock prices , 2 To Predict stock price we move on to predicition page where we need to enter valid ticker value and number of days and click predict button. , 3 This page displays the predicted stock price alsong with searched ticker details and also generating unique QR Code to view the predicted result., 4 The Left Graph is the real time stock price of the searched ticker for past 1day & the Right Graph is the predicted stock price for the number of days searched. ,5 The Ticker Info page displays the details of all the valid tickers accepted by the application.
+  Welcome to Stock Price Prediction with Machine Learning! My website, powered by linear regression and a Django App, provides real-time data of stock prices on the home page. To predict stock prices, simply navigate to the prediction page, enter a valid ticker value and the number of days you want to predict, and click the predict button. This page displays the predicted stock price along with the details of the searched ticker. We also generate a unique QR Code for easy access to the predicted results. On the prediction page, you'll find two graphs: the left graph shows the real-time stock price of the searched ticker for the past day, while the right graph displays the predicted stock price for the specified number of days. Additionally, our Ticker Info page provides comprehensive details about all the valid tickers accepted by the application.
 </p>
 
 ## Aim
@@ -25,7 +25,7 @@ Aim: To predict stock prices according to real-time data values fetched from API
   
 </p>
 
-##Scope
+## Scope
 <p>
   The project is applicable to any business organization, providing users with stock price prediction capabilities and comprehensive summary data.
 </p>
